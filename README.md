@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sondreesp
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming and sports
+- 🌱 I’m currently learning web development at SDSU in California 
+- 💞️ I’m looking to collaborate on Web development and other programming problems given in class
 - 📫 How to reach me sondreesp@hotmail.no
 
 <!---
